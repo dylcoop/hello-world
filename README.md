@@ -1,2 +1,5 @@
 # hello-world
-A repository to greet the world
+
+Hi Humans!
+
+dylcoop here, I like Python, SQL, and HTML
